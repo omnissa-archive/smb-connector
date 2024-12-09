@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 VMware, Inc. All rights reserved.
+ * Copyright (C) 2017 Omnissa, LLC. All rights reserved.
  *
  * SPDX-License-Identifier: GPL-3.0
  *
@@ -105,7 +105,7 @@ public:
 //                                                                                    //                                                                                       //
 ////////////////////////////////////////////////////////////////////////////////////////
 
-#define DEFAULT_SMB_CONF    "/opt/vmware/content-gateway/smb-connector/smb.conf"
+#define DEFAULT_SMB_CONF    "/opt/omnissa/content-gateway/smb-connector/smb.conf"
 
 #define DEFAULT_ACCEPT_QUEUE_SIZE   "1"
 #define DEFAULT_UNIX_SOCK_BUFFER    "61440" //60KB
@@ -117,7 +117,7 @@ public:
 #define DEFAULT_IDLE_TIMEOUT        "300" //seconds
 
 #define DEFAULT_SOCK_NAME           "smb-connector"
-#define DEFAULT_LOG_FILE            "/var/log/vmware/content-gateway/smb-connector/smbconnector.log"
+#define DEFAULT_LOG_FILE            "/var/log/omnissa/content-gateway/smb-connector/smbconnector.log"
 #define DEFAULT_LOG_LEVEL           "0"
 #define DEFAULT_FILE_UPLOAD_MODE    "0"
 
@@ -140,7 +140,7 @@ public:
 
 #define DEFAULT_OUT_FILE            "out"
 
-#define DEFAULT_CONF_FILE           "/opt/vmware/content-gateway/smb-connector/smb-connector.conf"
+#define DEFAULT_CONF_FILE           "/opt/omnissa/content-gateway/smb-connector/smb-connector.conf"
 
 
 #endif //CONFIGRUATION_H_

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 VMware, Inc. All rights reserved.
+ * Copyright (C) 2017 Omnissa, LLC. All rights reserved.
  *
  * SPDX-License-Identifier: GPL-3.0
  *

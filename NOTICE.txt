@@ -1,6 +1,6 @@
-VMware smb-connector
+Omnissa smb-connector
 
-Copyright 2017 VMware, Inc. All Rights Reserved. 
+Copyright 2017 Omnissa, LLC. All Rights Reserved. 
 
 This product is licensed to you under the GNU GENERAL PUBLIC LICENSE Version 3 license (the "License").  You may not use this product except in compliance with the GPL 3.0 License.  
 
